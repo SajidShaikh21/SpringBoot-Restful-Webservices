@@ -17,7 +17,7 @@ import org.springframework.context.annotation.Bean;
 				description = "Spring Boot REST API Documentation",
 				version = "v1.0",
 				contact = @Contact(
-						name = "Sajid Shaikh",
+						name = "Sajid",
 						email = "shaikhsajeed375@gmail.com"
 
 				),
